@@ -1,0 +1,14 @@
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.exe
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.deps.json
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.runtimeconfig.json
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.dll
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\bin\Debug\net8.0\Kutuphane.pdb
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.AssemblyInfoInputs.cache
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.AssemblyInfo.cs
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.dll
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\refint\Kutuphane.dll
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.pdb
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\Kutuphane.genruntimeconfig.cache
+C:\Users\Beyzanur\Desktop\Gorevler\Kutuphane\Kutuphane\obj\Debug\net8.0\ref\Kutuphane.dll
